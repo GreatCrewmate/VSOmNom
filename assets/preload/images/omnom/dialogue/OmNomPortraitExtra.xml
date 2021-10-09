@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OmNomPortraitExtra.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Om Nom Portrait EnterAng0000" x="0" y="0" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0001" x="1456" y="0" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0002" x="1456" y="0" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0003" x="0" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0004" x="0" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0005" x="1456" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0006" x="1456" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0007" x="1456" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterAng0008" x="1456" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0000" x="0" y="1696" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0001" x="1456" y="1696" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0002" x="1456" y="1696" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0003" x="0" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0004" x="0" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0005" x="1456" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0006" x="1456" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0007" x="1456" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait EnterSca0008" x="1456" y="2544" width="1451" height="843"/>
+</TextureAtlas>

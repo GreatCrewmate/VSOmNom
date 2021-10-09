@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="om_nom_sup.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Om Nom Down Note0000" x="0" y="0" width="487" height="527" frameX="0" frameY="-10" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0001" x="0" y="0" width="487" height="527" frameX="0" frameY="-10" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0002" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0003" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0004" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0005" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0006" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0007" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0008" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0009" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0010" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0011" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0012" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0013" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0014" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0015" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0016" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0017" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Down Note0018" x="492" y="0" width="479" height="537" frameX="-8" frameY="0" frameWidth="487" frameHeight="537"/>
+	<SubTexture name="Om Nom Left Note0000" x="976" y="0" width="497" height="528" frameX="0" frameY="-5" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0001" x="976" y="0" width="497" height="528" frameX="0" frameY="-5" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0002" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0003" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0004" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0005" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0006" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0007" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0008" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0009" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0010" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0011" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0012" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0013" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0014" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0015" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0016" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Left Note0017" x="1478" y="0" width="490" height="533" frameX="-6" frameY="0" frameWidth="497" frameHeight="533"/>
+	<SubTexture name="Om Nom Right Note0000" x="0" y="542" width="480" height="546" frameX="-2" frameY="0" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0001" x="0" y="542" width="480" height="546" frameX="-2" frameY="0" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0002" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0003" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0004" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0005" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0006" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0007" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0008" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0009" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0010" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0011" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0012" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0013" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0014" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0015" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Right Note0016" x="485" y="542" width="482" height="544" frameX="0" frameY="-2" frameWidth="482" frameHeight="546"/>
+	<SubTexture name="Om Nom Up Note0000" x="972" y="542" width="503" height="558"/>
+	<SubTexture name="Om Nom Up Note0001" x="972" y="542" width="503" height="558"/>
+	<SubTexture name="Om Nom Up Note0002" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0003" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0004" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0005" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0006" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0007" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0008" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0009" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0010" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0011" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0012" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0013" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0014" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0015" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0016" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0017" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom Up Note0018" x="1480" y="542" width="500" height="548" frameX="-3" frameY="-9" frameWidth="503" frameHeight="558"/>
+	<SubTexture name="Om Nom idle0000" x="0" y="1105" width="498" height="539" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0001" x="0" y="1105" width="498" height="539" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0002" x="503" y="1105" width="498" height="537" frameX="0" frameY="-2" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0003" x="1006" y="1105" width="498" height="540" frameX="0" frameY="-2" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0004" x="1509" y="1105" width="498" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0005" x="1509" y="1105" width="498" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0006" x="1509" y="1105" width="498" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0007" x="0" y="1650" width="498" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0008" x="503" y="1650" width="497" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0009" x="503" y="1650" width="497" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0010" x="1005" y="1650" width="494" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0011" x="1005" y="1650" width="494" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0012" x="1504" y="1650" width="492" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="Om Nom idle0013" x="1504" y="1650" width="492" height="535" frameX="-2" frameY="-7" frameWidth="500" frameHeight="542"/>
+</TextureAtlas>

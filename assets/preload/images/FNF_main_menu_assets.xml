@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="donate basic0000" x="0" y="0" width="664" height="149"/>
+	<SubTexture name="donate basic0001" x="0" y="0" width="664" height="149"/>
+	<SubTexture name="donate basic0002" x="0" y="0" width="664" height="149"/>
+	<SubTexture name="donate white0000" x="0" y="154" width="664" height="149"/>
+	<SubTexture name="donate white0001" x="0" y="154" width="664" height="149"/>
+	<SubTexture name="donate white0002" x="0" y="154" width="664" height="149"/>
+	<SubTexture name="freeplay basic0000" x="0" y="308" width="664" height="149"/>
+	<SubTexture name="freeplay basic0001" x="0" y="308" width="664" height="149"/>
+	<SubTexture name="freeplay basic0002" x="0" y="308" width="664" height="149"/>
+	<SubTexture name="freeplay white0000" x="0" y="462" width="664" height="149"/>
+	<SubTexture name="freeplay white0001" x="0" y="462" width="664" height="149"/>
+	<SubTexture name="freeplay white0002" x="0" y="462" width="664" height="149"/>
+	<SubTexture name="options basic0000" x="0" y="616" width="664" height="149"/>
+	<SubTexture name="options basic0001" x="0" y="616" width="664" height="149"/>
+	<SubTexture name="options basic0002" x="0" y="616" width="664" height="149"/>
+	<SubTexture name="options white0000" x="0" y="770" width="664" height="149"/>
+	<SubTexture name="options white0001" x="0" y="770" width="664" height="149"/>
+	<SubTexture name="options white0002" x="0" y="770" width="664" height="149"/>
+	<SubTexture name="story mode basic0000" x="0" y="924" width="664" height="149"/>
+	<SubTexture name="story mode basic0001" x="0" y="924" width="664" height="149"/>
+	<SubTexture name="story mode basic0002" x="0" y="924" width="664" height="149"/>
+	<SubTexture name="story mode white0000" x="0" y="1078" width="664" height="149"/>
+	<SubTexture name="story mode white0001" x="0" y="1078" width="664" height="149"/>
+	<SubTexture name="story mode white0002" x="0" y="1078" width="664" height="149"/>
+</TextureAtlas>

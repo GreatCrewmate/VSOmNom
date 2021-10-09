@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OmNomPortraitQA.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Om Nom Portrait Enter QA0000" x="0" y="0" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0001" x="0" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0002" x="0" y="848" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0003" x="0" y="1696" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0004" x="0" y="1696" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0005" x="0" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0006" x="0" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0007" x="0" y="2544" width="1451" height="843"/>
+	<SubTexture name="Om Nom Portrait Enter QA0008" x="0" y="2544" width="1451" height="843"/>
+</TextureAtlas>

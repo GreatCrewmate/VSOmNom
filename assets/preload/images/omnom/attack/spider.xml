@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spider.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spider attack0000" x="0" y="0" width="320" height="370" frameX="0" frameY="0" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider attack0001" x="325" y="0" width="320" height="370" frameX="0" frameY="0" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider attack0002" x="650" y="0" width="320" height="353" frameX="0" frameY="-17" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider attack0003" x="975" y="0" width="320" height="353" frameX="0" frameY="-17" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider attack0004" x="1300" y="0" width="320" height="353" frameX="0" frameY="-17" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider attack0005" x="1625" y="0" width="320" height="353" frameX="0" frameY="-17" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider attack0006" x="0" y="375" width="320" height="356" frameX="0" frameY="-17" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider attack0007" x="325" y="375" width="320" height="360" frameX="0" frameY="-17" frameWidth="320" frameHeight="377"/>
+	<SubTexture name="spider idle0000" x="650" y="375" width="320" height="342" frameX="0" frameY="-28" frameWidth="320" frameHeight="370"/>
+	<SubTexture name="spider idle0001" x="975" y="375" width="320" height="342" frameX="0" frameY="-28" frameWidth="320" frameHeight="370"/>
+	<SubTexture name="spider idle0002" x="1300" y="375" width="320" height="355" frameX="0" frameY="-15" frameWidth="320" frameHeight="370"/>
+	<SubTexture name="spider idle0003" x="1625" y="375" width="320" height="355" frameX="0" frameY="-15" frameWidth="320" frameHeight="370"/>
+	<SubTexture name="spider idle0004" x="0" y="740" width="320" height="361" frameX="0" frameY="-9" frameWidth="320" frameHeight="370"/>
+	<SubTexture name="spider idle0005" x="325" y="740" width="320" height="361" frameX="0" frameY="-9" frameWidth="320" frameHeight="370"/>
+	<SubTexture name="spider idle0006" x="650" y="740" width="320" height="370"/>
+	<SubTexture name="spider idle0007" x="975" y="740" width="320" height="370"/>
+</TextureAtlas>
